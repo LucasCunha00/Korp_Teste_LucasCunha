@@ -90,6 +90,10 @@ Korp_Teste_LucasCunha/
 │       └── models/
 └── docker-compose.yml
 ```
+## Screenshots
+
+![Tela de Produtos](docs/produtos.png)
+![Nota Fiscal Fechada](docs/nota_fiscal_fechada.png)
 
 ## Detalhamento técnico
 
